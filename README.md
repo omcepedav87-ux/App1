@@ -1,6 +1,7 @@
 # Nombre de mi aplicación
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/USUARIO/REPO/blob/main/NOTEBOOK.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/omcepedav87-ux/
+App1/blob/main/Notebook_Modelo_Publicacion.ipynb)
 
 > Cambia `USUARIO`, `REPO` y `NOTEBOOK` en el botón de arriba por tus datos de GitHub (por ejemplo `.../github/maria-lopez/mi-app/blob/main/mi_app.ipynb`).
 
